@@ -1,5 +1,5 @@
 {
-    "id": "58b1d0c2e594535668c36cc146777f1d",
+    "id": "d3137161b6384b41bfbabfc6ea01a056",
     "name": "GIG & Crowd",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "772d900697866b593f2064a24f0d867f",
+            "id": "7a7dd75213020d727978933e26b96776",
             "name": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e \u0442\u0435\u043a\u0443\u0449\u0435\u043c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435",
             "url": "httpgigandcrowd.com:8080\/\/api\/v1\/account\/user",
             "description": "",
@@ -29,61 +29,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "58b1d0c2e594535668c36cc146777f1d",
-            "rawModeData": ""
-        },
-        {
-            "id": "29c7fbc1cb904a6feb9dea5570df37a0",
-            "name": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043f\u0440\u0438\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u0435 \u043d\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044e \u043f\u043e \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u0443",
-            "url": "httpgigandcrowd.com:8080\/\/api\/v1\/invitations\/{inviteId}",
-            "description": "",
-            "data": [],
-            "dataMode": "raw",
-            "headerData": null,
-            "method": "get",
-            "pathVariableData": [],
-            "queryParams": [
-                {
-                    "key": "inviteId",
-                    "description": "\u0418\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440 \u043f\u0440\u0438\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u044f",
-                    "value": "",
-                    "equals": true,
-                    "enabled": true
-                }
-            ],
-            "auth": null,
-            "events": null,
-            "folder": null,
-            "protocolProfileBehavior": {
-                "disableBodyPruning": true
-            },
-            "responses": [],
-            "currentHelper": null,
-            "helperAttributes": null,
-            "collectionId": "58b1d0c2e594535668c36cc146777f1d",
-            "rawModeData": ""
-        },
-        {
-            "id": "ad77eb2174133ff8e4f20a32d28b9aa4",
-            "name": "\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u043f\u043e \u043f\u0440\u0438\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u044e",
-            "url": "httpgigandcrowd.com:8080\/\/api\/v1\/account\/register\/invite",
-            "description": "",
-            "data": [],
-            "dataMode": "raw",
-            "headerData": null,
-            "method": "post",
-            "pathVariableData": [],
-            "queryParams": [],
-            "auth": null,
-            "events": null,
-            "folder": null,
-            "protocolProfileBehavior": {
-                "disableBodyPruning": true
-            },
-            "responses": [],
-            "currentHelper": null,
-            "helperAttributes": null,
-            "collectionId": "58b1d0c2e594535668c36cc146777f1d",
+            "collectionId": "d3137161b6384b41bfbabfc6ea01a056",
             "rawModeData": ""
         }
     ]
